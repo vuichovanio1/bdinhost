@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Server racks">
+  <rect width="1200" height="700" fill="#122d22"/>
+  <g fill="#1f4d38">
+    <rect x="130" y="110" width="250" height="500" rx="10"/>
+    <rect x="475" y="110" width="250" height="500" rx="10"/>
+    <rect x="820" y="110" width="250" height="500" rx="10"/>
+  </g>
+  <g fill="#68d39b">
+    <rect x="165" y="160" width="180" height="12" rx="6"/>
+    <rect x="165" y="220" width="180" height="12" rx="6"/>
+    <rect x="165" y="280" width="180" height="12" rx="6"/>
+    <rect x="510" y="180" width="180" height="12" rx="6"/>
+    <rect x="510" y="240" width="180" height="12" rx="6"/>
+    <rect x="510" y="300" width="180" height="12" rx="6"/>
+    <rect x="855" y="170" width="180" height="12" rx="6"/>
+    <rect x="855" y="230" width="180" height="12" rx="6"/>
+    <rect x="855" y="290" width="180" height="12" rx="6"/>
+  </g>
+  <text x="100" y="640" font-size="52" fill="#f2fff8" font-family="Segoe UI, Arial, sans-serif">Secure Data Center Systems</text>
+</svg>

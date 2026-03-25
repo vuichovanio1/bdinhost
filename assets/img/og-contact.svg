@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="OG Contact">
+  <rect width="1200" height="630" fill="#edf8f2"/>
+  <rect x="80" y="70" width="1040" height="490" rx="28" fill="#1d6b45" opacity="0.1"/>
+  <rect x="150" y="150" width="430" height="330" rx="22" fill="#ffffff"/>
+  <path d="M210 230h300M210 290h240M210 350h280" stroke="#2d8659" stroke-width="14" stroke-linecap="round"/>
+  <text x="640" y="250" fill="#1d6b45" font-size="64" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Контакти</text>
+  <text x="640" y="325" fill="#2d8659" font-size="38" font-family="Segoe UI, Arial, sans-serif">Свържете се с нас</text>
+  <text x="640" y="390" fill="#2d8659" font-size="32" font-family="Segoe UI, Arial, sans-serif">office@bdinhost.com</text>
+  <text x="640" y="445" fill="#2d8659" font-size="32" font-family="Segoe UI, Arial, sans-serif">+359 000 000 000</text>
+</svg>

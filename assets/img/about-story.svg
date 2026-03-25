@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Team journey illustration">
+  <rect width="1200" height="700" fill="#eef8f2"/>
+  <path d="M80 520C260 380 390 580 560 430s300 40 560-130" stroke="#1d6b45" stroke-width="14" fill="none"/>
+  <g fill="#2d8659">
+    <circle cx="180" cy="495" r="24"/><circle cx="420" cy="505" r="24"/><circle cx="620" cy="420" r="24"/><circle cx="910" cy="455" r="24"/>
+  </g>
+  <g fill="#1d6b45"><rect x="160" y="180" width="180" height="180" rx="20"/><rect x="390" y="140" width="180" height="220" rx="20"/><rect x="620" y="200" width="180" height="160" rx="20"/></g>
+  <text x="90" y="640" font-size="52" fill="#1d6b45" font-family="Segoe UI, Arial, sans-serif">15+ Years of Hosting Excellence</text>
+</svg>

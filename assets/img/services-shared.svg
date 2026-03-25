@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Shared hosting illustration">
+  <rect width="1200" height="700" fill="#edf9f2"/>
+  <rect x="170" y="140" width="860" height="420" rx="24" fill="#1d6b45" opacity="0.12"/>
+  <g fill="#1d6b45"><rect x="230" y="200" width="230" height="70" rx="10"/><rect x="490" y="200" width="230" height="70" rx="10"/><rect x="750" y="200" width="230" height="70" rx="10"/><rect x="230" y="310" width="230" height="70" rx="10"/><rect x="490" y="310" width="230" height="70" rx="10"/><rect x="750" y="310" width="230" height="70" rx="10"/></g>
+  <text x="220" y="620" font-size="56" fill="#1d6b45" font-family="Segoe UI, Arial, sans-serif">Shared Hosting Platform</text>
+</svg>

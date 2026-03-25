@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Modern office setup">
+  <defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8f5ee"/><stop offset="1" stop-color="#d1eadf"/></linearGradient></defs>
+  <rect width="1200" height="700" fill="url(#a)"/>
+  <rect x="120" y="450" width="960" height="26" rx="13" fill="#8cb89f"/>
+  <rect x="280" y="280" width="640" height="190" rx="14" fill="#1d6b45"/>
+  <rect x="320" y="315" width="560" height="120" rx="8" fill="#f2fff8"/>
+  <rect x="520" y="470" width="160" height="40" rx="8" fill="#2d8659"/>
+  <circle cx="930" cy="330" r="64" fill="#1d6b45" opacity="0.18"/>
+  <text x="130" y="120" font-size="54" fill="#164732" font-family="Segoe UI, Arial, sans-serif">Managed IT Workspace</text>
+</svg>

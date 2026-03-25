@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="VPS virtual machine illustration">
+  <rect width="1200" height="700" fill="#eaf7f0"/>
+  <rect x="130" y="140" width="940" height="440" rx="26" fill="#1d6b45" opacity="0.1"/>
+  <g stroke="#1d6b45" stroke-width="8" fill="none">
+    <rect x="230" y="220" width="240" height="180" rx="16"/>
+    <rect x="500" y="220" width="240" height="180" rx="16"/>
+    <rect x="770" y="220" width="200" height="180" rx="16"/>
+  </g>
+  <g fill="#2d8659"><circle cx="300" cy="300" r="22"/><circle cx="570" cy="300" r="22"/><circle cx="840" cy="300" r="22"/></g>
+  <text x="210" y="620" font-size="56" fill="#1d6b45" font-family="Segoe UI, Arial, sans-serif">Virtual Private Servers</text>
+</svg>

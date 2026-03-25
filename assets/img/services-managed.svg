@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Managed VPS monitoring illustration">
+  <rect width="1200" height="700" fill="#edf9f3"/>
+  <rect x="150" y="120" width="900" height="460" rx="20" fill="#1d6b45" opacity="0.14"/>
+  <rect x="250" y="210" width="700" height="280" rx="18" fill="#ffffff"/>
+  <path d="M300 430L430 320l100 70 150-120 120 85" stroke="#1d6b45" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="430" cy="320" r="14" fill="#2d8659"/><circle cx="530" cy="390" r="14" fill="#2d8659"/><circle cx="680" cy="270" r="14" fill="#2d8659"/><circle cx="800" cy="355" r="14" fill="#2d8659"/>
+  <text x="190" y="620" font-size="56" fill="#1d6b45" font-family="Segoe UI, Arial, sans-serif">Managed VPS and Monitoring</text>
+</svg>

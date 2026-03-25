@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Contact support illustration">
+  <rect width="1200" height="700" fill="#edf8f2"/>
+  <rect x="150" y="140" width="900" height="420" rx="24" fill="#1d6b45" opacity="0.12"/>
+  <rect x="240" y="210" width="360" height="280" rx="20" fill="#ffffff"/>
+  <rect x="640" y="210" width="320" height="280" rx="20" fill="#ffffff"/>
+  <path d="M290 300h260M290 350h220M690 300h220M690 350h180" stroke="#2d8659" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="420" cy="420" r="36" fill="#1d6b45" opacity="0.2"/>
+  <circle cx="820" cy="420" r="36" fill="#1d6b45" opacity="0.2"/>
+  <text x="150" y="620" font-size="52" fill="#1d6b45" font-family="Segoe UI, Arial, sans-serif">Talk to Our Support Team</text>
+</svg>
