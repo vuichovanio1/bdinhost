@@ -160,9 +160,9 @@
     </header>
 
     <h1>Свържете се с нас</h1>
-    <img class="hero-image" src="assets/img/contact-help.svg" alt="Поддръжка и комуникация с екипа" loading="eager" width="1200" height="700">
+    <img class="hero-image" src="assets/img/pexels-photo-5675996.jpeg" alt="Поддръжка и комуникация с екипа" loading="eager" width="1200" height="700">
 
-    <section class="contact-section" id="zapitvane">
+    <section class="contact-section">
       <h2>Готови ли сте да подобрите своя бизнес?</h2>
       <p>Ние сме тук, за да помогнем. Контактувайте ни днес за безплатна консултация и разговор за вашите ИТ нужди.</p>
 
@@ -178,50 +178,8 @@
 
       <div class="contact-method">
         <h3>⏰ Работно време</h3>
-        <p>Пн-Пт: 09:00 - 18:00</p>
-        <p>Събота: По договор</p>
-        <p>Неделя: Затворено</p>
+        <p>24/7/365</p>
       </div>
-    </section>
-
-    <section class="contact-section">
-      <h2>Бързо запитване по услуга</h2>
-      <div class="request-grid">
-        <div class="request-card">
-          <h3>Споделен хостинг</h3>
-          <p>Подходящо за стартови и фирмени сайтове.</p>
-          <div class="request-actions">
-            <a class="request-link" href="tel:+359878990070">Обади се</a>
-            <button type="button" class="request-button copy-template" data-template="Запитване: Споделен хостинг%0AСайт/проект:%0AОчакван трафик:%0AКакво е важно за вас:%0A">Копирай шаблон</button>
-          </div>
-        </div>
-        <div class="request-card">
-          <h3>VPS</h3>
-          <p>За проекти с нужда от повече контрол и ресурси.</p>
-          <div class="request-actions">
-            <a class="request-link" href="tel:+359878990070">Обади се</a>
-            <button type="button" class="request-button copy-template" data-template="Запитване: VPS%0AСайт/проект:%0AОчакван трафик:%0AНужни ресурси (CPU/RAM/SSD):%0A">Копирай шаблон</button>
-          </div>
-        </div>
-        <div class="request-card">
-          <h3>Managed VPS</h3>
-          <p>Готова инсталация и техническа поддръжка.</p>
-          <div class="request-actions">
-            <a class="request-link" href="tel:+359878990070">Обади се</a>
-            <button type="button" class="request-button copy-template" data-template="Запитване: Managed VPS%0AСайт/проект:%0AТекуща среда:%0AНужна помощ за миграция:%0A">Копирай шаблон</button>
-          </div>
-        </div>
-        <div class="request-card">
-          <h3>Нает сървър</h3>
-          <p>За максимален контрол върху инфраструктурата.</p>
-          <div class="request-actions">
-            <a class="request-link" href="tel:+359878990070">Обади се</a>
-            <button type="button" class="request-button copy-template" data-template="Запитване: Нает сървър%0AСайт/проект:%0AНужни ресурси:%0AСпециални изисквания:%0A">Копирай шаблон</button>
-          </div>
-        </div>
-      </div>
-      <p id="copy-status" class="copy-status" aria-live="polite"></p>
-      <p class="request-tip">Съвет: добавете кратко описание на сайта, очакван трафик и предпочитана услуга, за да получите по-точна насока.</p>
     </section>
 
     <section class="contact-section">
@@ -263,12 +221,6 @@
           setStatus("Неуспешно копиране. Маркирайте и копирайте ръчно.");
         });
       }
-
-      document.querySelectorAll(".copy-template").forEach(function (button) {
-        button.addEventListener("click", function () {
-          copyText(button.getAttribute("data-template"), "Шаблонът е копиран. Изпратете го на admin@bdinhost.com");
-        });
-      });
 
       document.querySelectorAll(".copy-email").forEach(function (link) {
         link.addEventListener("click", function (event) {
