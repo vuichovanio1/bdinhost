@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="IT support illustration">
-  <rect width="1200" height="700" fill="#eef9f3"/>
-  <rect x="190" y="140" width="820" height="420" rx="24" fill="#1d6b45" opacity="0.14"/>
-  <circle cx="440" cy="320" r="110" fill="#1d6b45" opacity="0.18"/>
-  <rect x="560" y="240" width="320" height="170" rx="16" fill="#ffffff" stroke="#1d6b45" stroke-width="8"/>
-  <path d="M610 300h220M610 345h180" stroke="#2d8659" stroke-width="12" stroke-linecap="round"/>
-  <text x="190" y="620" font-size="52" fill="#1d6b45" font-family="Segoe UI, Arial, sans-serif">IT Support Without Internal Team</text>
-</svg>
